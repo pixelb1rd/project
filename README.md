@@ -1,1 +1,3 @@
-# project
+# Kognitív robotika házi feladat
+
+# 
