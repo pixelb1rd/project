@@ -12,4 +12,9 @@ Először megtanítottuk a neurális hálónak, hogy felismerje, ha egy szakadá
 
 Majd elkészítettük programkód kiegészítését, ami lehelyez egy jelzést, ha szakadást érzékel.
 Itt abba a hibába futottunk, hogy a tanítás során olyan helyeken is szakadást érzékel, ahol nincsen.
-Emiatt folyamatosan jelöléseket tesz le.
+Emiatt folyamatosan jelöléseket tesz le, ezért ennél tovább nem tudtunk jutni a feladatunkba.
+
+## A vonalkövetésről készült videónk:
+https://github.com/pixelb1rd/project/assets/130582814/20637e05-272d-48af-b4c6-40e2351027bd
+
+
